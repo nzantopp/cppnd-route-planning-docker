@@ -53,6 +53,8 @@ The project's application, `OSM_A_star_search`, requires graphical display capab
     docker run -e DISPLAY=$IP:0 nzantopp/cppnd-route-planning:latest
     ```
 
+![Map on macOS](/docs/images/map_quartz.png)
+
 ## Configuration
 
 Default configurations are set for typical use. To override configurations or provide additional settings, please refer to the application's documentation.
